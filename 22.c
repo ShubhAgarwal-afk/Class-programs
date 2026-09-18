@@ -19,4 +19,12 @@ int main() {
     printf("Right Shift (a >> 2) = %d\n", a >> 2);
 
     return 0;
-}
+}/* 
+1100
+1000
+0100
+001 0
+
+
+
+*/
