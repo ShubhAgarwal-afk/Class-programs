@@ -1,7 +1,7 @@
 /*Experiment 3: Menu-Driven Program Using User-Defined Functions
 Write a menu-driven C program using user-defined functions to perform the following operations on an integer:
 1.	Check whether the number is even or odd 
-2.	Check whether the number is prime 
+2. 	Check whether the number is prime 
 3.	Check whether the number is a palindrome 
 4.	Find the sum of digits 
 5.	Reverse the number 
