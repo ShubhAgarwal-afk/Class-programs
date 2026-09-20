@@ -1,6 +1,6 @@
 #include<stdio.h>
-int factorial(int n)
-int fibonacii(int q) 
+int factorial(int n);
+int fibonacii(int q);
 void main()
 {int a;
 printf("Enter the number of which factorial needed:");
@@ -19,12 +19,12 @@ int factorial(int i)
 	  { return i*factorial(i-1);
 	  }
   }
-int fibonacci(int q)
+int fibonacii(int q)
     {if(q==0)
 		{ return 0;
 		}
      else
-	 {return fibonacci(i)+fibonacci(i-1);
+	 {return fibonacii(q)+fibonacii(q-1);
 	 }
 	}
 	  
