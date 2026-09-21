@@ -4,7 +4,7 @@
 4.	Find the sum of digits 
 5.	Reverse the number 
 6.	Exit 
-Each operation must be implemented using a separate function.*/
+*/
 #include<stdio.h>
 int findmaximun();
 int findminimun();
