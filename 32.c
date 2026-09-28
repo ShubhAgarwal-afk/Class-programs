@@ -8,7 +8,7 @@ printf("Enter the value of First number:");
 scanf("%d",&a);
 printf("Enter the value of First number:");
 scanf("%d",&b);
-printf("Your result is:%p\n",Sum(a,b));
+printf("Your address is:%p\n",Sum(a,b));
 printf("Your sum is:%d\n",*Sum(a,b));
 
  }
